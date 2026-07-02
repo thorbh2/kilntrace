@@ -1,0 +1,17 @@
+.git
+.github
+.next
+node_modules
+.env
+.env.*
+data/
+vault.enc.json
+wallets.json
+projects.json
+private-keys.json
+.vault-password
+*.pem
+*.p12
+*.pfx
+__pycache__/
+.pytest_cache/
